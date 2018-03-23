@@ -1,6 +1,5 @@
 ---
 title: My page
-permalink: mypageurl.html
 ---
 
 # My website jyrodrigues.github.io
