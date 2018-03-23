@@ -13,9 +13,15 @@ This is a checklist:
 - [ ] Not selected
 - [x] Selected
 
-This should be a checklist without bullet points:
--------------------------------------------------
+Links:
+------
 
-[ ] Nope
-[x] Xed
+Empty parentesis
+[google.com]()
+
+[sameasparentesis.com](sameasparentesis.com)
+
+[Different but full path to test.md](jyrodrigues.github.io/test.md)
+
+[Different but short path](test.md)
 
