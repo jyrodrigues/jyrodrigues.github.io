@@ -17,7 +17,7 @@ Links:
 ------
 
 Empty parentesis
-[google.com]()
+[jrodrigues](http://www.jrodrigues.co)
 
 [sameasparentesis.com](sameasparentesis.com)
 
