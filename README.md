@@ -23,5 +23,5 @@ Empty parentesis
 
 [Different but full path to test.md](jyrodrigues.github.io/test.md)
 
-[Different but short path](test.md)
+[Different but short path](test.html)
 
