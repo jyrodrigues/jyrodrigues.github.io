@@ -1,3 +1,8 @@
+---
+title: My page
+permalink: mypageurl.html
+---
+
 # My website jyrodrigues.github.io
 
 This is a list:
